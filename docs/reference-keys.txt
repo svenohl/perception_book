@@ -1,3 +1,10 @@
-down-the-rabbit-hole
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+fig:chunk-label
+moravecs-paradox
+maps-in-the-brain
+features-of-maps
+sensory-maps
+retinoptic-maps-in-the-visual-system
+cognitive-maps
+optics-of-the-eye
+eyes
+the-retina

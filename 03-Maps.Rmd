@@ -1,0 +1,15 @@
+# Maps in the Brain
+
+## Features of Maps
+
+```{r chunk-label, echo = FALSE, fig.cap = 'A figure caption.'}
+1 + 1
+rnorm(10)  # 10 random numbers
+plot(dist ~ speed, cars)  # a scatterplot
+```
+
+## Sensory Maps
+
+### Retinoptic maps in the visual system
+
+## Cognitive Maps

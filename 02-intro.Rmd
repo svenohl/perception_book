@@ -1,0 +1,6 @@
+# Moravec's Paradox
+
+```
+What is easy and what is hard?
+```
+
