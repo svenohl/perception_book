@@ -8,3 +8,11 @@ cognitive-maps
 optics-of-the-eye
 eyes
 the-retina
+retina-to-cortex
+retina-to-cortex-1
+motion-perception
+color-perception
+depth-perception
+visual-organization
+visual-organization-1
+signal-detection-theory
