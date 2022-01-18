@@ -9,10 +9,10 @@ optics-of-the-eye
 eyes
 the-retina
 retina-to-cortex
-retina-to-cortex-1
+receptive-fields
 motion-perception
 color-perception
 depth-perception
 visual-organization
-visual-organization-1
+psychophysics
 signal-detection-theory

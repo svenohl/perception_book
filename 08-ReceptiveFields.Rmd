@@ -1,10 +1,8 @@
-# Retina to Cortex
+# Receptive Fields
 
 ```
-Retina – LGN  – Visual Cortex
+Primary visual cortex
 ```
 
-```
-Retina – SC  – Visual Cortex
-```
+
 
