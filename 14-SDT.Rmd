@@ -1,0 +1,6 @@
+# Signal detection theory
+
+```
+A very short introduction
+```
+
