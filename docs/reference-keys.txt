@@ -1,10 +1,9 @@
 fig:chunk-label
 why-studying-perception
-maps-in-the-brain
-features-of-maps
-sensory-maps
-retinoptic-maps-in-the-visual-system
-cognitive-maps
+maps
+sensory
+retinotopic-maps
+other-points
 optics-of-the-eye
 eyes
 the-retina

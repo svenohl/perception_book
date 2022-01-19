@@ -1,2 +1,7 @@
 # The retina
 
+- Instruction for drawing your own retina.
+- Instructions for lateral inhibition
+- Excercise, translate luminances to a graph
+- Instructions for compression (file size example)
+

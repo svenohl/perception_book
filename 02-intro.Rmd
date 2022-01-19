@@ -1,7 +1,12 @@
 # Why studying perception?
 
+- Can you think of sth where understanding perception really helps?
+
 ```
 What is easy and what is hard?
 ```
 
-Moravec paradox
+- Moravec's paradox
+  - Find other examples of Moravec's paradox
+  - Reflect on whether we really understand how playing chess works
+  - Could you think of sth that is really easy to solve for the mind/brain?
