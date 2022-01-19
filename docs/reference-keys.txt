@@ -1,5 +1,5 @@
 fig:chunk-label
-moravecs-paradox
+why-studying-perception
 maps-in-the-brain
 features-of-maps
 sensory-maps

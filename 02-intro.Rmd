@@ -1,6 +1,7 @@
-# Moravec's Paradox
+# Why studying perception?
 
 ```
 What is easy and what is hard?
 ```
 
+Moravec paradox
