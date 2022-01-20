@@ -1,4 +1,4 @@
-# Visual Organization
+# Visual organization
 
 ```
 Perceiving objects

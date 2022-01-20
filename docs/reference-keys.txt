@@ -5,7 +5,7 @@ sensory
 retinotopic-maps
 other-points
 optics-of-the-eye
-eyes
+eye
 the-retina
 retina-to-cortex
 receptive-fields

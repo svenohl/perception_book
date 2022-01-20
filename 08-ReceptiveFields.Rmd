@@ -1,4 +1,4 @@
-# Receptive Fields
+# Receptive fields
 
 ```
 Primary visual cortex
