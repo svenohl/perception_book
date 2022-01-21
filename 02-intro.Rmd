@@ -1,12 +1,23 @@
 # Why studying perception?
 
-- Can you think of sth where understanding perception really helps?
-
 ```
-What is easy and what is hard?
+In chapter 1, you will visit again the main reason why studying perception is so exciting. Moreover, understanding how we perceive is pretty challenging, which we will discuss using Moravec's Paradox.
 ```
+- Short intro: Constructive process/inference (Poverty of the stimulus; interactive 3D example plus accidental view; same applies to motion, color, etc). The solution are simple rules (or algorithms using some environmental information often referred to a cue for a particular problem).
 
 - Moravec's paradox
   - Find other examples of Moravec's paradox
   - Reflect on whether we really understand how playing chess works
   - Could you think of sth that is really easy to solve for the mind/brain?
+
+- It might look surprising to you that people are still struggling to define what perception actually is. For instance what are the main characteristics of perception? What is the border between perception and thinking? What are the goals of perception?
+
+- What do you think are the main goals of perception?
+
+- Reflection: Can you think of sth where understanding perception really helps?
+
+- Further Readings
+  - Moravec Paradox and vaccination
+
+- Further watching
+  - Ned Block
