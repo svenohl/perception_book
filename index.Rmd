@@ -1,5 +1,5 @@
 --- 
-title: "Excercises Sensation and Perception"
+title: "Excercises in Sensation & Perception"
 author: "Sven Ohl"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
