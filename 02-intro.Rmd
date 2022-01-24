@@ -1,6 +1,6 @@
 # Why studying perception?
 
->*In chapter 1, you will learn why understanding perception is pretty challenging (Moravec's Paradox). Also, you will have a chance to study the main reasons why research on perception is so exciting.*
+>*In chapter 1, you will learn about an insight from robotics that perception is complicated (Moravec's Paradox). Moreover, we will look at the main reason why perception is hard (Poverty of the stimulus).*
    
 ## A very short review   
 
@@ -12,7 +12,7 @@ It is pretty hard to define *perception* -- which is surprising given that most 
 - Moravec's paradox
 
 ### What is the main challenge?
-You've just learned that perceiving is pretty effortless for you, but in fact it is a pretty hard task to generate/compute perception. In order to accomplish perception the brain invests a lot of neurons. But what is actually the problem that these many neurons try to solve? Why is perception so hard. Here it comes:
+You've just learned that perceiving is effortless for you, but in fact it is a pretty hard task to generate/compute perception. In order to accomplish perception the brain invests a lot of neurons. But what is actually the problem that these many neurons try to solve? Why is perception so hard. Here it comes:
 
 ```
 There are infinite possible interpretations of the image falling   
@@ -23,7 +23,7 @@ This challenge is so fundamental to the vision sciences, that it got its own nam
 
 Scientists and artists have created tons of examples to demonstrate that multiple (actually infinite) interpretations based on an input are possible. [provide classic example here; maybe make the point that similar examples exist for language -->chomsky]. While these examples may seem artificial, for your visual system the poverty of the stimulus problem concerns any retinal image at any point in time. The problem is particularly obvious when it comes to 3D-vision. We construct a perception of a three-dimensional world based on a two-dimensional retinal image. This three-dimensional world is not present in the retinal image, and must be inferred. We will hear more about this once we address depth perception at a later session. 
 
-But surprisingly, it seems that we all perceive pretty much the same things around us. This is truley remarkable. Imagine you assign many people (across all ages from babies to elderly) a simple math task (let's say what is 100 - 37) that requires some computation/inference and you will notice a certain distribution of reported results (distributed with some variance around the true result of 63). Vision, in contrast, has to solve an incredibly harder problem and still all our brains seem to arrive at the same conclusion. This points to rules (or mechanisms) that are hard-wired in the brain and work very reliably. It is vision scientists' goal to identify such rules of vision This endevear is highly interdisciplinary and includes methods from psychology, neuroscience, medicine, computer science, robotics, physics, mathematics, and philosophy.
+But surprisingly, it seems that we all perceive pretty much the same things around us. This is truley remarkable. Imagine you assign many people (across all ages from babies to elderly) a simple math task (let's say what is 100 - 37) that requires some computation/inference. It is reasonable to expect that an average person should be able to solve that easy task. It is also reasonable to expect in addition that quite some people will get the wrong results (Nobody is perfect and some people are simply not into math). Moreover, you don't expect young children - that never got in touch with number >10 — or all elderly to give the correct answer.  So, once you are done collecting the answers of particpants, you will notice a certain distribution of reported results (distributed with some variance around the true result of 63). Vision, in contrast, has to solve an incredibly harder problem and still all our brains seem to arrive at the same conclusion. Impressive, right? This points to rules (or mechanisms) that are hard-wired in the brain and work very reliably. It is vision scientists' goal to identify such rules of vision. This endevear is highly interdisciplinary and includes methods from psychology, neuroscience, medicine, computer science, robotics, physics, mathematics, and philosophy. We will touch upon methods from all these fields and see how they tell us something about perception.
 
 ## Excercises
 
@@ -35,5 +35,6 @@ But surprisingly, it seems that we all perceive pretty much the same things arou
    
 
 ## Further material
-Moravec's Paradox and vaccination   
-Ned Block   
+Moravec's Paradox and vaccination
+Ned Block
+Gibson's ecological perspective
