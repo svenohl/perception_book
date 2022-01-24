@@ -1,23 +1,29 @@
 # Why studying perception?
 
->*In chapter 1, you will visit again the main reason why studying perception is so exciting. Moreover, understanding how we perceive is pretty challenging, which we will discuss using Moravec's Paradox.*
+>*In chapter 1, you will learn why understanding perception is pretty challenging (Moravec's Paradox). Also, you will have a chance to study the main reasons why research on perception is so exciting.*
    
 ## A very short review   
 
 ### What is perception?
 
-This question might seem odd in the beginning. Of course perception is what we see, hear, smell, taste and feel. It might look surprising to you that people are still struggling to define what perception actually is. For instance what are the main characteristics of perception? What is the border between perception and thinking? What are the goals of perception?   
-
-### What is the main challenge?
-Short intro: Constructive process/inference (Poverty of the stimulus; interactive 3D example plus accidental view; same applies to motion, color, etc). The solution are simple rules (or algorithms using some environmental information often referred to a cue for a particular problem).   
-
-```
-There are infinite solutions of the visual environment based on the retinal image.
-```
+It is pretty hard to define *perception* -- which is surprising given that most lectures or textbooks start with a definition of a subject. Of course perception is what we see, hear, smell, taste and feel. That is correct, however, it might be surprising to you that scientists haven't really settled on many very basic questions regarding the nature of perception. For instance what are the main characteristics of perception? What are the borders between perception and thinking? Can our thoughts influence how we perceive? What are the goals of perception (e.g., providing veridical information/ news about the environment)? These are fundamental questions that keep attracting many scientist and are actively debated.
 
 ### What is easy and what is hard?
 - Moravec's paradox
-   
+
+### What is the main challenge?
+You've just learned that perceiving is pretty effortless for you, but in fact it is a pretty hard task to generate/compute perception. In order to accomplish perception the brain invests a lot of neurons. But what is actually the problem that these many neurons try to solve? Why is perception so hard. Here it comes:
+
+```
+There are infinite possible interpretations of the image falling   
+onto the back of your eye (i.e., the retinal image).
+```
+
+This challenge is so fundamental to the vision sciences, that it got its own name -- the poverty of the stimulus problem (Note: there is one school of thought - ecological perception — that rejects this idea). It means that the retinal image (i.e., the stimulus) does not provide sufficient information (i.e, the poverty) to allow a single, unambigous interpretation. Sometimes you will read that a problem is under-constrained, or ill-posed, which basically means the same as above.
+
+Scientists and artists have created tons of examples to demonstrate that multiple (actually infinite) interpretations based on an input are possible. [provide classic example here; maybe make the point that similar examples exist for language -->chomsky]. While these examples may seem artificial, for your visual system the poverty of the stimulus problem concerns any retinal image at any point in time. The problem is particularly obvious when it comes to 3D-vision. We construct a perception of a three-dimensional world based on a two-dimensional retinal image. This three-dimensional world is not present in the retinal image, and must be inferred. We will hear more about this once we address depth perception at a later session. 
+
+But surprisingly, it seems that we all perceive pretty much the same things around us. This is truley remarkable. Imagine you assign many people (across all ages from babies to elderly) a simple math task (let's say what is 100 - 37) that requires some computation/inference and you will notice a certain distribution of reported results (distributed with some variance around the true result of 63). Vision, in contrast, has to solve an incredibly harder problem and still all our brains seem to arrive at the same conclusion. This points to rules (or mechanisms) that are hard-wired in the brain and work very reliably. It is vision scientists' goal to identify such rules of vision This endevear is highly interdisciplinary and includes methods from psychology, neuroscience, medicine, computer science, robotics, physics, mathematics, and philosophy.
 
 ## Excercises
 
@@ -28,6 +34,6 @@ There are infinite solutions of the visual environment based on the retinal imag
 - Could you think of sth that is really easy to solve for the mind/brain?
    
 
-## Further Material
+## Further material
 Moravec's Paradox and vaccination   
 Ned Block   

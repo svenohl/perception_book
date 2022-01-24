@@ -2,8 +2,8 @@ fig:chunk-label
 why-studying-perception
 a-very-short-review
 what-is-perception
-what-is-the-main-challenge
 what-is-easy-and-what-is-hard
+what-is-the-main-challenge
 excercises
 further-material
 maps
