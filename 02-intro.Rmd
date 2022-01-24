@@ -6,7 +6,7 @@
 
 ### What is perception?
 
-It is pretty hard to define *perception* -- which is surprising given that most lectures or textbooks start with a definition of a subject. Of course perception is what we see, hear, smell, taste and feel. That is correct, however, it might be surprising to you that scientists haven't really settled on many very basic questions regarding the nature of perception. For instance what are the main characteristics of perception? What are the borders between perception and thinking? Can our thoughts influence how we perceive? What are the goals of perception (e.g., providing veridical information/ news about the environment)? These are fundamental questions that keep attracting many scientist and are actively debated.
+It is pretty hard to define *perception* — which is surprising given that most lectures or textbooks start with a definition of a subject. Of course perception is what we see, hear, smell, taste and feel. That is correct, however, it might be surprising to you that scientists haven't really settled on many very basic questions regarding the nature of perception. For instance what are the main characteristics of perception? What are the borders between perception and thinking? Can our thoughts influence how we perceive? What are the goals of perception (e.g., providing veridical information/ news about the environment)? These are fundamental questions that keep attracting many scientist and are actively debated.
 
 ### What is easy and what is hard?
 - Moravec's paradox
@@ -19,7 +19,7 @@ There are infinite possible interpretations of the image falling
 onto the back of your eye (i.e., the retinal image).
 ```
 
-This challenge is so fundamental to the vision sciences, that it got its own name -- the poverty of the stimulus problem (Note: there is one school of thought - ecological perception — that rejects this idea). It means that the retinal image (i.e., the stimulus) does not provide sufficient information (i.e, the poverty) to allow a single, unambigous interpretation. Sometimes you will read that a problem is under-constrained, or ill-posed, which basically means the same as above.
+This challenge is so fundamental to the vision sciences, that it got its own name — the poverty of the stimulus problem (Note: there is one school of thought — ecological perception — that rejects this idea). It means that the retinal image (i.e., the stimulus) does not provide sufficient information (i.e, the poverty) to allow a single, unambigous interpretation. Sometimes you will read that a problem is under-constrained, or ill-posed, which basically means the same as above.
 
 Scientists and artists have created tons of examples to demonstrate that multiple (actually infinite) interpretations based on an input are possible. [provide classic example here; maybe make the point that similar examples exist for language -->chomsky]. While these examples may seem artificial, for your visual system the poverty of the stimulus problem concerns any retinal image at any point in time. The problem is particularly obvious when it comes to 3D-vision. We construct a perception of a three-dimensional world based on a two-dimensional retinal image. This three-dimensional world is not present in the retinal image, and must be inferred. We will hear more about this once we address depth perception at a later session. 
 
