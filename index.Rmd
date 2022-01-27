@@ -7,4 +7,6 @@ site: bookdown::bookdown_site
 
 # Preface {-}
 
-![](ch1_images/frames2080.png)
+![](ch1_images/perception1.gif)
+
+<!-- ![](ch1_images/frames2080.png) -->
