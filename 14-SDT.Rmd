@@ -9,4 +9,6 @@ curve(dnorm(x,-2,1),-6,6,xlim=c(-6,6),xlab="Evidence",ylab="",bty="l",yaxt="n")
 curve(dnorm(x,2,1),-6,6,add=TRUE)
 ```
 
-
+<Solution>
+We can hide a solution first, but give some help after clicking.
+</Solution>
