@@ -1,8 +1,18 @@
 # Receptive fields
 
-```
-Primary visual cortex
-```
+>* This chapter will be on xyz. *
 
+## A very short review
+[to do; the neurophysiological approach]
 
+### Neural firing
+[to do; neural firing plot]
 
+### Receptive field mapping
+[to do]
+
+## Excercises for next week
+- many processing implementations that use the camera or the processing window as input device.
+
+## Additional reading
+- to do

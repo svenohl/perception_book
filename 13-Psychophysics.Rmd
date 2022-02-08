@@ -1,6 +1,26 @@
 # Psychophysics
 
-```
-Laws and methods
-```
+>* This chapter will be about **Psychophysical laws** and **methods** for measuring perceptual thresholds.*
 
+## A very short review
+
+It would make sense if the study of perception (and cognition) had its early roots in cartography rather than physics or philosophy. It turns out that maps play an outstanding role in all sensory modalities of perception. But how should one think of such a brain map underlying perception? To appreciate the importance of maps, it is worth taking a step back and looking at maps in general.
+
+- Cartography (map-making, plus figure of famous maps).
+Broadly speaking a map is a representation of something. [Text]. The cartographer is mapping for instance an environment (e.g., streets in a city) onto a surface (e.g., paper). Scientists face a different problem when studying brain maps in perception. 
+
+### Thresholds
+[to do]
+
+### Methods
+[to do]
+
+### Laws
+[to do]
+
+## Excercises for next week
+- [to do; add examples in processing]
+- Do some computations for Weber fraction
+
+## Additional reading
+- to do

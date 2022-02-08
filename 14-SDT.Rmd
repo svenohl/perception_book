@@ -1,8 +1,7 @@
 # Signal detection theory
 
-```
-A very short introduction
-```
+>* This chapter will be on the decomposition of perceptual decisions into perceptual sensitivity and a decision bias.*
+
 
 ```{r chunk-label, echo = FALSE, fig.cap = 'A figure caption.'}
 curve(dnorm(x,-2,1),-6,6,xlim=c(-6,6),xlab="Evidence",ylab="",bty="l",yaxt="n")
@@ -12,3 +11,28 @@ curve(dnorm(x,2,1),-6,6,add=TRUE)
 <Solution>
 We can hide a solution first, but give some help after clicking.
 </Solution>
+
+## A very short review
+
+It would make sense if the study of perception (and cognition) had its early roots in cartography rather than physics or philosophy. It turns out that maps play an outstanding role in all sensory modalities of perception. But how should one think of such a brain map underlying perception? To appreciate the importance of maps, it is worth taking a step back and looking at maps in general.
+
+- Cartography (map-making, plus figure of famous maps).
+Broadly speaking a map is a representation of something. [Text]. The cartographer is mapping for instance an environment (e.g., streets in a city) onto a surface (e.g., paper). Scientists face a different problem when studying brain maps in perception. 
+
+### The equal variance model
+[to do]
+
+### Where comes the normal distribution from
+[to do; Video and Galton Board]
+
+### Bias and sensitivity
+[to do]
+
+### ROC
+[to do]
+
+## Excercises for next week
+- many chess-like little panels with tasks.
+
+## Additional reading
+- to do

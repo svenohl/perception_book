@@ -1,20 +1,33 @@
 # Maps
 
+>*In this session we talked about **neurons**, the brain's most basic processing unit. Neurons during early perceptual processing have an interesting property—they are organized in **sensory maps**.*
+
+## A very short review
+
 It would make sense if the study of perception (and cognition) had its early roots in cartography rather than physics or philosophy. It turns out that maps play an outstanding role in all sensory modalities of perception. But how should one think of such a brain map underlying perception? To appreciate the importance of maps, it is worth taking a step back and looking at maps in general.
 
 - Cartography (map-making, plus figure of famous maps).
 Broadly speaking a map is a representation of something. [Text]. The cartographer is mapping for instance an environment (e.g., streets in a city) onto a surface (e.g., paper). Scientists face a different problem when studying brain maps in perception. 
 
-## Sensory
+### Neurons
+[to do; all you need to know that neurons are firing. We are interested in the fact that sensory neurons change their activity (firing rate) in response to particular stimuli.]
 
-## Retinotopic maps
+### Sensory maps
+[to do; Should conclude with the question what is the benefit of having a map. Lets look at general properties of maps.]
 
-## Other points 
-
-- Benefits of maps (see Tics review)
+### Properties of maps
 - All kinds of map charaxcteristics (see Seeing book; continuous maps etc.)
+- Benefits of maps (see Tics review)
 - Topology
 - The packing problem in general
-- Excercise 1: Pay attention how maps are part of our daily life. Contribute to the discussioin room.
-- Excercise 2: Display maps and get their correct characteristics
-- Excercise 3: find online a map with an intersting story and make a short video that introduces your map.
+
+## Excercises for next week
+- Display maps and name correct map properties.
+- Find online a map with an interesting story and make a short video that introduces your map (about 2 min).
+
+## Additional reading
+- Maybe the neural doctrine.
+
+## Other points 
+- Excercise 1: Create and display maps and get their correct characteristics/properties.
+- Excercise 2: find online a map with an intersting story and make a short video that introduces your map.
