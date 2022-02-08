@@ -5,9 +5,8 @@ A very short introduction
 ```
 
 ```{r chunk-label, echo = FALSE, fig.cap = 'A figure caption.'}
-1 + 1
-rnorm(10)  # 10 random numbers
-plot(dist ~ speed, cars)  # a scatterplot
+curve(dnorm(x,-2,1),-6,6,xlim=c(-6,6),xlab="Evidence",ylab="",bty="l",yaxt="n")
+curve(dnorm(x,2,1),-6,6,add=TRUE)
 ```
 
 
