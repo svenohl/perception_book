@@ -5,7 +5,7 @@ what-is-perception
 what-is-easy-and-what-is-hard
 what-is-the-main-challenge
 excercises-for-next-week
-further-material
+additonal-reading
 maps
 sensory
 retinotopic-maps
