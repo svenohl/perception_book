@@ -11,11 +11,33 @@ Broadly speaking a map is a representation of something. [Text]. The cartographe
 
 ### Neurons
 [to do; all you need to know that neurons are firing. We are interested in the fact that sensory neurons change their activity (firing rate) in response to particular stimuli.]
+- Show neuron with axon, dendrite and soma. 
+- Neurons make connections.
+- Firing of neuron will make firing of connected neuron more (excitation) or less likely (inhibtion).
+- Abstract neurons and abstract neural networks.
+- There are so and so many neurons in the brain which is a pretty abstract number.
+- Here I show you an example of a simple neural network that can solve a particular task with x neurons.
+
+```
+Neurons are organized in maps during early sensory processing. 
+```
 
 ### Sensory maps
 [to do; Should conclude with the question what is the benefit of having a map. Lets look at general properties of maps.]
+- give an example for vision and another modality
 
 ### Properties of maps
+- A map is the result from mapping someting onto something. Mapping is the process of applying a mathematical function and we will therefore take a look at the discipline within mathematics that deals with mapping space—topology.
+
+- Use now an example of a real map to explain some properties:
+- continuous
+- domain vs. codomain
+- linear vs. nonlinear
+- direction of mapping
+- adding more dimensions to the map (foreshadow packing problem).
+
+- Ok, we know there are maps. What's the benefit of maps.
+
 - All kinds of map charaxcteristics (see Seeing book; continuous maps etc.)
 - Benefits of maps (see Tics review)
 - Topology
@@ -26,8 +48,8 @@ Broadly speaking a map is a representation of something. [Text]. The cartographe
 - Find online a map with an interesting story and make a short video that introduces your map (about 2 min).
 
 ## Additional reading
-- Maybe the neural doctrine.
+- Maybe theatlantic article.
 
 ## Other points 
-- Excercise 1: Create and display maps and get their correct characteristics/properties.
+- Excercise 1: Create and display maps. Please name the number of dimensions, continuous, linearity, direction,
 - Excercise 2: find online a map with an intersting story and make a short video that introduces your map.
