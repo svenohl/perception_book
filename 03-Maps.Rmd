@@ -4,14 +4,14 @@
 
 ## A very short review
 
-Our understanding of perception can be traced back to several complementary research traditions and one of them is the **neurophysiological approach**. It is an intuitive, easily accessible method of approaching perception that resembles engineering logic, which I will briefly illustrate with an example. Imagine you want to understand how an old television at home works. You unscrew the box of the device and see many parts that you don't know and don't understand. But you also see a cable that is connected to the start button. You follow the cable and see it is connected to another part. So you might wonder what function this part has and what happens when you remove it. After years of research, when you understand better what this part is responsible for, you could look at where the cables lead away from this part. The neurophysiological approach is very similar to that strategy. Obviously, it is a lot of work, but it has provided many important insights into the functioning of the sensory brain. (But there is also a critical meta view on this approach if we will ever come to an understanding of a system using these methods. See some of the additional readings). For the purposes of this course, it is necessary to briefly introduce neurons. But it is quite sufficient to explain their function in an abstract way.
+Our current understanding of perception builds on complementary research traditions and one of them is the **neurophysiological approach**. It is an intuitive and easily accessible method of approaching perception that resembles a reverse engineering logic, which I will briefly illustrate with an example. Imagine you want to understand how an old television system that you found at home works. You unscrew the box of the device which will reveal many assembled parts that you don't really understand. But you also see a cable that is connected to the start button of the TV. You follow the cable and see it is connected to another part. You might wonder what the function of this new part is — and maybe you wonder what happens to your device once you remove that part. After years of detailed research, after you think you understand what this part is doing, you could start looking at where the cables lead away from this part. The neurophysiological approach is very similar to that strategy. A good starting point to understand the visual system is to start with the first cells in the retina and how they are connected to other cells. Alternatively, you could start at the level of the retina where output is generated and sent to the brain. Over the years you can build up the complexity of the system that you study by increasing the number of steps (e.g., number of neurons) that you moved away from the retina. Obviously, it is a lot of work, but this approach (which I presented heavily oversimplified) has provided many important insights into the functioning of the sensory brain. (But there is also a critical meta view on this approach if we will ever come to an understanding of a system using these methods. See some of the additional readings). It is necessary to briefly introduce neurons because the activity of single neurons in response to particular stimuli has revealed stunning insights into the functioning of sensory processing in the brain. Fortunately, for the purposes of this course, it will be sufficient to explain neurons in a pretty short and abstract way.
 
 ### Neurons
 
-[to do; all you need to know that neurons are firing. We are interested in the fact that sensory neurons change their activity (firing rate) in response to particular stimuli.]
-- Show neuron with axon, dendrite and soma. 
-- Neurons make connections.
-- Firing of neuron will make firing of connected neuron more (excitation) or less likely (inhibtion).
+A neuron is the basic computational unit in the brain. Its basic function can be summarized as receiving input and generating output. Neurons receive input in the dendrites, and if the input exceeds a threshold they will generate an output (i.e., an action potential). The action potential travels along the axon to pass on a signal to the next neurons. A neuron can receive from and send output to many other neurons. If an action potential is generated, the neuron is *firing*. Importantly, there are two ways for a neuron to affect the firing of another neuron — **excitation** and **inhibition**. If the forwarded signal increases the chances for the other neuron to generate an action potential we call this an excitatory input. Neurons, however, can also decrease the likelihood for the next neuron to fire, which we call an inhibitory input. The link between two particular neurons is either excitatory or inhibitory.
+
+![Figure. **a** Neuron -- courtesy wikipedia. **b** Typical visualization of a neural response in which each vertical line refers to the firing of the neuron over time. Time is displayed on the x-axis.](ch3_images/p_3_1.png)
+
 - Abstract neurons and abstract neural networks.
 - There are so and so many neurons in the brain which is a pretty abstract number.
 - Here I show you an example of a simple neural network that can solve a particular task with x neurons.
@@ -19,20 +19,13 @@ Our understanding of perception can be traced back to several complementary rese
 ```
 Neurons are organized in maps during early sensory processing. 
 ```
-Typically, we are interested in creating maps. That means there is some external world property and we would like to map it onto some structure. In vision science we are faced with a reverse challenge. We know that there are maps in the brain, and we attempt to understand what properites of the world are represented in that map and what consquences follow from a particular mapping. 
-
 ### Sensory maps
-It would make sense if the study of perception (and cognition) had its early roots in cartography rather than physics or philosophy. It turns out that maps play an outstanding role in all sensory modalities of perception. But how should one think of such a brain map underlying perception?
+It would not be surprising if the study of perception (and cognition) had its early roots in cartography rather than physics or philosophy. Maps play an outstanding role in all sensory modalities as they did throughout human history. More generally speaking, making a map means there is some external world property and we would like to map it onto some structure. The external property could be the stars in the sky, that is mapped onto some stone. We will look at some maps in this chapter and learn more about properties of maps. When studying perception we typically do not make new maps. Rather we attempt to understand what properites of the world are represented in a sensory map and what consquences follow from a particular mapping. 
 
-- Cartography (map-making, plus figure of famous maps).
-Broadly speaking a map is a representation of something. [Text]. The cartographer is mapping for instance an environment (e.g., streets in a city) onto a surface (e.g., paper). Scientists face a different problem when studying brain maps in perception. 
-
-- Make the overall point of how important maps are.
-[to do; Should conclude with the question what is the benefit of having a map. Lets look at general properties of maps.]
-- give an example for vision and another modality
+- Introduce topographic maps and provide examples for vision and another modality. The key point in vision is that neighboring points on the retina are also neighbors in sensory maps.
 
 ### Properties of maps
-- A map is the result from mapping someting onto something. Mapping is the process of applying a mathematical function and we will therefore take a look at the discipline within mathematics that deals with mapping space—topology.
+- A map is the result from mapping someting onto something. Or in other words, mapping is the process of applying a mathematical function. We will therefore take a look at the discipline within mathematics that deals with mapping space—topology.
 
 - Use now an example of a real map to explain some properties:
 - continuous
@@ -49,7 +42,16 @@ Broadly speaking a map is a representation of something. [Text]. The cartographe
 - The packing problem in general
 
 ## Excercises for next week
-- Display maps and name correct map properties.
+- Display three maps and name correct map properties.
+continuous vs discontinuous
+linear vs. non-linear
+one-directional vs. bi-directional
+2,3,4 dimensional maps
+
+-> provide hidden solutions.
+
+(U-Bahn, Tasse, dis-continuous map)
+- Based on the 2,3,4 dimensional maps anticipate the packing problem. Let the students think about several solutions how one can pack 3 dimensions onto a plane.
 - Find online a map with an interesting story and make a short video that introduces your map (about 2 min).
 
 ## Additional reading
