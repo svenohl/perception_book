@@ -39,7 +39,7 @@ But surprisingly, it seems that we all perceive pretty much the same things arou
 ## Excercises for next week
 For next week, I would like to ask you to think about, and answer, the following questions. Each answer should have a length of about 100 words.
 
-- Vision scientists aim to uncover rules of vision. What could be such a rule that explains why we see a black rectangle on top of a grey square (panel b in the Figure above) rather than someting like dispalyed in panel c?  (100 words)
+- Vision scientists aim to uncover rules of vision. What could be such a rule that explains why we see a black rectangle on top of a grey square (panel b in the Figure above) rather than someting like displayed in panel c?  (100 words)
 - What do you think are the goals of perception? (100 words)
 - Can you think of something where (and why) understanding perception really helps? (100 words)
 - Can you think other another example where Moravec's paradox applies? (100 words)
