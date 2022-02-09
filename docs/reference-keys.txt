@@ -5,15 +5,14 @@ what-is-perception
 what-is-easy-and-what-is-hard
 what-is-the-main-challenge
 excercises-for-next-week
-additonal-reading
-maps
+additional-reading
+of-neurons-and-maps
 a-very-short-review-1
 neurons
 sensory-maps
 properties-of-maps
 excercises-for-next-week-1
-additional-reading
-other-points
+additional-reading-1
 optics-of-the-eye
 eye
 the-retina
@@ -23,7 +22,7 @@ a-very-short-review-2
 neural-firing
 receptive-field-mapping
 excercises-for-next-week-2
-additional-reading-1
+additional-reading-2
 motion-perception
 color-perception
 depth-perception
@@ -34,7 +33,7 @@ thresholds
 methods
 laws
 excercises-for-next-week-3
-additional-reading-2
+additional-reading-3
 signal-detection-theory
 a-very-short-review-4
 the-equal-variance-model
@@ -42,4 +41,4 @@ where-comes-the-normal-distribution-from
 bias-and-sensitivity
 roc
 excercises-for-next-week-4
-additional-reading-3
+additional-reading-4

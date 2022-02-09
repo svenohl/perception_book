@@ -1,17 +1,13 @@
-# Maps
+# Of neurons and maps
 
->*In this session we talked about **neurons**, the brain's most basic processing unit. Neurons during early perceptual processing have an interesting property—they are organized in **sensory maps**.*
+>*In this chapter we will briefly introduce **neurons**, the brain's most basic processing unit. Neurons during early perceptual processing have an interesting property—they are organized in **sensory maps**.*
 
 ## A very short review
 
-It would make sense if the study of perception (and cognition) had its early roots in cartography rather than physics or philosophy. It turns out that maps play an outstanding role in all sensory modalities of perception. But how should one think of such a brain map underlying perception?
-
-- Cartography (map-making, plus figure of famous maps).
-Broadly speaking a map is a representation of something. [Text]. The cartographer is mapping for instance an environment (e.g., streets in a city) onto a surface (e.g., paper). Scientists face a different problem when studying brain maps in perception. 
-
-- Make the overall point of how important maps are.
+Our understanding of perception can be traced back to several complementary research traditions and one of them is the **neurophysiological approach**. It is an intuitive, easily accessible method of approaching perception that resembles engineering logic, which I will briefly illustrate with an example. Imagine you want to understand how an old television at home works. You unscrew the box of the device and see many parts that you don't know and don't understand. But you also see a cable that is connected to the start button. You follow the cable and see it is connected to another part. So you might wonder what function this part has and what happens when you remove it. After years of research, when you understand better what this part is responsible for, you could look at where the cables lead away from this part. The neurophysiological approach is very similar to that strategy. Obviously, it is a lot of work, but it has provided many important insights into the functioning of the sensory brain. (But there is also a critical meta view on this approach if we will ever come to an understanding of a system using these methods. See some of the additional readings). For the purposes of this course, it is necessary to briefly introduce neurons. But it is quite sufficient to explain their function in an abstract way.
 
 ### Neurons
+
 [to do; all you need to know that neurons are firing. We are interested in the fact that sensory neurons change their activity (firing rate) in response to particular stimuli.]
 - Show neuron with axon, dendrite and soma. 
 - Neurons make connections.
@@ -23,8 +19,15 @@ Broadly speaking a map is a representation of something. [Text]. The cartographe
 ```
 Neurons are organized in maps during early sensory processing. 
 ```
+Typically, we are interested in creating maps. That means there is some external world property and we would like to map it onto some structure. In vision science we are faced with a reverse challenge. We know that there are maps in the brain, and we attempt to understand what properites of the world are represented in that map and what consquences follow from a particular mapping. 
 
 ### Sensory maps
+It would make sense if the study of perception (and cognition) had its early roots in cartography rather than physics or philosophy. It turns out that maps play an outstanding role in all sensory modalities of perception. But how should one think of such a brain map underlying perception?
+
+- Cartography (map-making, plus figure of famous maps).
+Broadly speaking a map is a representation of something. [Text]. The cartographer is mapping for instance an environment (e.g., streets in a city) onto a surface (e.g., paper). Scientists face a different problem when studying brain maps in perception. 
+
+- Make the overall point of how important maps are.
 [to do; Should conclude with the question what is the benefit of having a map. Lets look at general properties of maps.]
 - give an example for vision and another modality
 
@@ -51,7 +54,3 @@ Neurons are organized in maps during early sensory processing.
 
 ## Additional reading
 - Maybe theatlantic article.
-
-## Other points 
-- Excercise 1: Create and display maps. Please name the number of dimensions, continuous, linearity, direction,
-- Excercise 2: find online a map with an intersting story and make a short video that introduces your map.
