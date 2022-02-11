@@ -10,7 +10,9 @@ Our current understanding of perception builds on complementary research traditi
 
 A neuron is the basic computational unit in the brain. Its function can be summarized as receiving input and generating output. Neurons receive input in the dendrites, and if the input exceeds a threshold they will generate an output (i.e., an action potential). The action potential travels along the axon to pass on a signal to the next neurons. A neuron can receive from and send output to many other neurons. If an action potential is generated, the neuron is *firing*. Importantly, there are two ways for a neuron to affect the firing of another neuron — **excitation** and **inhibition**. If the forwarded signal increases the chances for the other neuron to generate an action potential we call this an excitatory input. Neurons, however, can also decrease the likelihood for the next neuron to fire, which we call an inhibitory input. The link between two particular neurons is either excitatory or inhibitory.
 
+<center>
 ![Figure. **a** Schematic drawing of a neuron -- courtesy wikipedia. **b** Typical visualization of a neural response. Each line represents the occurrence of an action potential.](ch3_images/p_3_1.svg)
+</center>
 
 - Abstract neurons and abstract neural networks.
 - There are so and so many neurons in the brain which is a pretty abstract number.
@@ -48,28 +50,37 @@ It would not be surprising if the study of perception (and cognition) had its ea
 
 ## Excercises for next week
 
-1.    Often it is very useful to see a graphical representation of a stimulus presented in the external world (e.g., an object on a computer screen) in addition to the neuron's activity. In the figure below, is such an example of a graphical visualization. Imagine a bright disk is presented on dark background. We are interested in two things. First, when is the stimulus presented (presented on the x-axis) and second, how bright was the stimulus (presented on the y-axis). In panel a, we see a continuous increase of the stimulus intensity in the time range 0 — 2 seconds after trial onset until the stimulus is maximally bright (i.e., the stimulus is white). Once the stimulus reached its maximal intensity it is suddenly removed. In panel b, we see a sudden onset of the stimulus, with maximal intensity, after 1 second and a sudden offset one second later. In panel c, the stimulus has the same temporal parameters as before, but the stimulus intensity is just half of the previous example (i.e., the the intensity reaches just 0.5 of the intensity represented on the y-axis).
+1.    Often it is very useful to see a graphical representation of a stimulus presented in the external world (e.g., an object on a computer screen) in addition to the neuron's activity. In the figure below, is such an example of a graphical visualization. Imagine a bright disk is presented on dark background. We are interested in two things. First, when is the stimulus presented (time on the x-axis) and second, how bright was the stimulus (intensitiy on the y-axis). In panel a, we see a continuous increase of the stimulus intensity in the time range 0 — 2 seconds after trial onset until the stimulus is maximally bright (i.e., the stimulus is white). Once the stimulus reached its maximal intensity it is suddenly removed. In panel b, we see a sudden onset of the stimulus, with maximal intensity, after 1 second and a sudden offset one second later. In panel c, the stimulus has the same temporal parameters as before, but the stimulus intensity is just half of the previous example (i.e., the the intensity reaches just 0.5 of the intensity represented on the y-axis).
 
+<center>
 ![Figure. Three stimulus configurations. Sudden onset of bright disk 1s and offset 2s after trial onset.](ch3_images/stimsequencex.svg)
+</center>
+
 Take a minute for yourself and try to visualize with your inner eyes how you imagine the three different stimuli to look like. If you have an idea, then click below to see the solution.
 
 <details>
   <summary>Click to see solution!</summary>
-  
+
+<center>  
 ![Figure.](ch3_images/p_2_234.gif)
+</center>
 
 </details>
 
 2.    Please create a graphical visualization for the stimulus (intensity on y-axis, time on x-axis), for the following example.
 
+<center>
 ![Figure.](ch3_images/p_2_5.gif)
+</center>
 
 3.    Please create **one** graphical visualization for the two stimuli in this example (intensity on y-axis, time on x-axis).
 
+<center>
 ![Figure.](ch3_images/p_2_6.gif)
+</center>
 
 4.    Imagine you record the firing of a neuron (occurrence of action potential on y-axis, time on x-axis) for the last stimulus (in excercise 3). Please visualize the firings for a neuron that only fires in response to: 
-    **a** "red", **b** "squares", and **c** "white OR squares".
+    **a** "red", **b** "squares", **c** "white OR squares", and **d** "white AND squares".
 
 5.    Display three pairs (external world, maps) and name correct map properties. (google maps, topology example, etc)
   -- continuous vs discontinuous
@@ -77,19 +88,27 @@ Take a minute for yourself and try to visualize with your inner eyes how you ima
   -- one-directional vs. bi-directional
   -- iso-metric, area pre-serving
 
-6.    Display three maps and say how many properties/dimensions are in this map (country + income, )
-  - 2,3,4 dimensional maps
+6.    Please take a look at the following (famous) map, and find out how many (and what) dimensions are visualized in the map.
 
-7.    Display external worlds and ask them to map it onto the map
+<center>
+![Warming stripes. For more details see https://en.wikipedia.org/wiki/Warming_stripes](ch3_images/p_2_7.png)
+</center>
+
+
+7.    Please take a look at the following thermal image, and find out how many (and what) dimensions are visualized.
+
+<center>
+![Thermal image of a cow.](ch3_images/p_2_8.jpg)
+</center>
+
+8.    In this task, I will show you some external world, and I will ask you to create a map of it with a defined number of dimensions.
   - 1 dimensional problem on 1 dimension
   - 2 dimensional problem on 2 dimensions
   - 2 dimensional problem on 1 dimenions
   - 3 dimensional problem on 2 dimenions
   
-8.    Think about four dimensional problem and how to map it onto a (multiple) plane and write the solution.
-  
-  
-(U-Bahn, Tasse, dis-continuous map)
+9.    We find maps throughout the brain. In vision, there are a number of maps that preserve some of the spatial relationships of the external world. That means, we find neurons in brain maps that respond only to a particular spatial location in the external world. However, brain maps ... [probably bring that point later.]
+
 - Based on the 2,3,4 dimensional maps anticipate the packing problem. Let the students think about several solutions how one can pack 3 dimensions onto a plane.
 - Find online a map with an interesting story and make a short video that introduces your map (about 2 min).
 
