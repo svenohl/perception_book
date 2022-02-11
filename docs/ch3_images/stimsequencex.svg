@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 150" style="enable-background:new 0 0 600 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;}
+	.st1{font-family:'Helvetica';}
+	.st2{font-size:9.247px;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-family:'Helvetica-Bold';}
+</style>
+<g>
+	<g>
+		<line class="st0" x1="226.88" y1="97.17" x2="400.01" y2="97.82"/>
+		<text transform="matrix(1 0 0 1 290.8446 122.0504)" class="st1 st2">time (in s)</text>
+		<line class="st0" x1="226.88" y1="52.09" x2="226.88" y2="97.82"/>
+		<line class="st0" x1="285.45" y1="58.56" x2="329.33" y2="58.56"/>
+		<line class="st0" x1="329.33" y1="58.56" x2="329.33" y2="97.82"/>
+		<line class="st0" x1="285.45" y1="58.56" x2="285.45" y2="97.82"/>
+		<text transform="matrix(1 0 0 1 238.9755 105.4439)" class="st3 st2">0</text>
+		<text transform="matrix(1 0 0 1 282.9462 105.5455)" class="st3 st2">1</text>
+		<text transform="matrix(1 0 0 1 326.9189 105.6461)" class="st3 st2">2</text>
+		<text transform="matrix(1 0 0 1 391.549 105.4439)" class="st3 st2">3</text>
+	</g>
+	<g>
+		<line class="st0" x1="35.3" y1="97.17" x2="208.44" y2="97.82"/>
+		<text transform="matrix(1 0 0 1 99.2668 122.051)" class="st1 st2">time (in s)</text>
+		<line class="st0" x1="35.3" y1="52.09" x2="35.3" y2="97.82"/>
+		<text transform="matrix(0 -1 1 0 16.3752 89.7678)"><tspan x="0" y="0" class="st1 st2">stimulus </tspan><tspan x="0" y="11.1" class="st1 st2">intensity</tspan></text>
+		<line class="st0" x1="137.75" y1="58.56" x2="137.75" y2="97.82"/>
+		<line class="st0" x1="137.75" y1="57.79" x2="50.49" y2="97.05"/>
+		<text transform="matrix(1 0 0 1 47.3976 105.4436)" class="st3 st2">0</text>
+		<text transform="matrix(1 0 0 1 91.3683 105.5451)" class="st3 st2">1</text>
+		<text transform="matrix(1 0 0 1 135.341 105.6467)" class="st3 st2">2</text>
+		<text transform="matrix(1 0 0 1 178.9718 105.4436)" class="st3 st2">3</text>
+	</g>
+	<line class="st0" x1="416.54" y1="97.17" x2="589.68" y2="97.82"/>
+	<text transform="matrix(1 0 0 1 480.5094 122.0503)" class="st1 st2">time (in s)</text>
+	<line class="st0" x1="416.54" y1="52.09" x2="416.54" y2="97.82"/>
+	<line class="st0" x1="475.12" y1="77.05" x2="518.99" y2="77.05"/>
+	<line class="st0" x1="518.99" y1="77.05" x2="518.99" y2="97.82"/>
+	<line class="st0" x1="475.12" y1="77.05" x2="475.12" y2="97.82"/>
+	<text transform="matrix(1 0 0 1 428.6402 105.4439)" class="st3 st2">0</text>
+	<text transform="matrix(1 0 0 1 472.6119 105.5454)" class="st3 st2">1</text>
+	<text transform="matrix(1 0 0 1 516.5836 105.647)" class="st3 st2">2</text>
+	<text transform="matrix(1 0 0 1 560.2145 105.4439)" class="st3 st2">3</text>
+	<text transform="matrix(1 0 0 1 2.0001 31.4527)" class="st4 st2">a</text>
+	<text transform="matrix(1 0 0 1 217.3914 31.4531)" class="st4 st2">b</text>
+	<text transform="matrix(1 0 0 1 404.8911 31.4531)" class="st4 st2">c</text>
+</g>
+</svg>
