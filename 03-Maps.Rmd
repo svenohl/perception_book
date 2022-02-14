@@ -14,10 +14,6 @@ A neuron is the basic computational unit in the brain. Its function can be summa
 ![Figure. **a** Schematic drawing of a neuron -- courtesy wikipedia. **b** Typical visualization of a neural response. Each line represents the occurrence of an action potential.](ch3_images/p_3_1.svg)
 </center>
 
-- Abstract neurons and abstract neural networks.
-- There are so and so many neurons in the brain which is a pretty abstract number.
-- Here I show you an example of a simple neural network that can solve a particular task with x neurons.
-
 Understanting the orchestrated behavior of neurons is crucial to understand any function of the brain. What is particularly interesting for perception is the following.
 
 ```
@@ -66,53 +62,59 @@ Take a minute for yourself and try to visualize with your inner eyes how you ima
 </center>
 
 </details>
-
-2.    Please create a graphical visualization for the stimulus (intensity on y-axis, time on x-axis), for the following example.
+\
+\
+2.    Please create a graphical visualization (intensity on y-axis, time on x-axis) for the following stimulus.
 
 <center>
 ![Figure.](ch3_images/p_2_5.gif)
 </center>
-
-3.    Please create **one** graphical visualization for the two stimuli in this example (intensity on y-axis, time on x-axis).
+\
+\
+3.    Please create **one** graphical visualization for the following two stimuli (intensity on y-axis, time on x-axis).
 
 <center>
 ![Figure.](ch3_images/p_2_6.gif)
 </center>
-
-4.    Imagine you record the firing of a neuron (occurrence of action potential on y-axis, time on x-axis) for the last stimulus (in excercise 3). Please visualize the firings for a neuron that only fires in response to: 
+\
+\
+4.    Imagine you record the firing of a neuron (occurrence of action potential on y-axis, time on x-axis) for the stimulus in excercise 3. Please visualize the actions potentials for a neuron that only fires in response to: 
     **a** "red", **b** "squares", **c** "white OR squares", and **d** "white AND squares".
-
+\
+\
 5.    Display three pairs (external world, maps) and name correct map properties. (google maps, topology example, etc)
   -- continuous vs discontinuous
   -- linear vs. non-linear
   -- one-directional vs. bi-directional
   -- iso-metric, area pre-serving
-
-6.    Please take a look at the following (famous) map, and find out how many (and what) dimensions are visualized in the map.
+\
+\
+6.    Please take a look at the following famous visualization, and find out how many (and what) dimensions are displayed in the plot.
 
 <center>
 ![Warming stripes. For more details see https://en.wikipedia.org/wiki/Warming_stripes](ch3_images/p_2_7.png)
 </center>
-
-
+\
+\
 7.    Please take a look at the following thermal image, and find out how many (and what) dimensions are visualized.
 
 <center>
 ![Thermal image of a cow.](ch3_images/p_2_8.jpg)
 </center>
-
+\
+\
 8.    In this task, I will show you some external world, and I will ask you to create a map of it with a defined number of dimensions.
   - 1 dimensional problem on 1 dimension
   - 2 dimensional problem on 2 dimensions
   - 2 dimensional problem on 1 dimenions
   - 3 dimensional problem on 2 dimenions
-  
+\
+\
 9.    We find maps throughout the brain. In vision, there are a number of maps that preserve some of the spatial relationships of the external world. That means, we find neurons in brain maps that respond only to a particular spatial location in the external world. However, brain maps ... [probably bring that point later.]
 
 - Based on the 2,3,4 dimensional maps anticipate the packing problem. Let the students think about several solutions how one can pack 3 dimensions onto a plane.
 - Find online a map with an interesting story and make a short video that introduces your map (about 2 min).
 
 ## Additional reading
-- Maybe theatlantic article.
-- Could a biologist understand a transistor
+- Can a biologist fix a radio? — Or, what I learned while studying apoptosis. (by Yuri Lazebnik, 2002)
 - Upload excercises as pdf version.
