@@ -18,6 +18,7 @@ Laws and methods
 ## Excercises for next week
 - [to do; add examples in processing]
 - Do some computations for Weber fraction
+- compute dprime
 
 ## Additional reading
 - to do
